@@ -6,6 +6,7 @@ int main()
 {
     int wybor;
     std::ifstream mathematics("math.txt");
+    std::ifstream biology("biology.txt");
     std::cout << "Witaj uzytkowniku! \nWybierz jedna z podanych opcji\n";
     std::cout << "1. Wzory uzywane przy funkcji kwadratowej"<<'\n';
     std::cout << "2. Tkanki: nablonkowa, miesniowa i nerwowa" << '\n';
@@ -23,10 +24,22 @@ int main()
         }
         else {
             std::cout << "Couldn't open file\n";
+            
+        }
+        break;
+    case 2:
+        if (biology.is_open()) {
+            while (getline(biology, myline)) {
+                std::cout << myline << '\n';
+            }
+        }
+        else {
+            std::cout << "Couldn't open file\n";
+
         }
         break;
     default:
-        std::cout << "cos";
+        std::cout << "Blad";
         break;
     }
 }

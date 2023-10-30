@@ -1,0 +1,11 @@
+Tkanka nablonkowa - charakteryzuje sie zwartym ukladem komorek i obecnoscia blony podstawnej. Pelni funkcje ochronne, wydzielnicze, transportowe. Wyrozniamy nablonki jednowarstwowe (nablonek: plaski, szescienny, walcowaty i wielorzadowy) oraz wielowarstwowe (np. nablonek wielowarstwowy plaski)
+
+Tkanka miesniowa jest zbudowana z komorek lub wlokien majacych zddolnosc do kurczenia sie.
+Wyrozniamy trzy rodzaje tkanki miesniowej:
+	
+-tkanke miesniowa poprzecznie prazkowana szkieletowa
+-tkanke miesniowa poprzecznie prazkowana serca
+-tkanke miesniowa gladka
+
+Tkanka nerwowa sklada sie z neuronow, ktore sluza do przewodzenia impulsow nerwowych,
+oraz z komorek glejowych, ktorych glowna funkcja jest odzywianie i wspomaganie neuronow
