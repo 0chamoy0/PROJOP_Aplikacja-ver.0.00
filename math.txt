@@ -1,0 +1,18 @@
+Wzor na p (wspolrzedna x wierzcholka): -b/2a
+Wzor na q (wspolrzedna y wierzcholka): -/\ /4a
+Wzor na delte ( /\ ): (b)2 - 4ac
+
+Postac ogolna: f(x)=ax2 + bx + c
+Postac kanoniczna: f(x)=a(x-p)2+q
+Postac iloczynowa: f(x)=a(x-x1)(x-x2)
+
+jesli /\ < 0 to funkcja ma brak miejsca zerowego (nie ma postaci iloczynowej)
+jesli /\ = 0 to funkcja ma jedno miejsce zerowe x0 = -b/2a
+jesli /\ > 0 to funkcja ma dwa miejsca zerowe:
+	 x1 = (-b - pierwiastek z /\) / 2a
+	 x2 = (-b + pierwiastek z /\) / 2a
+
+legenda:
+/\ - delta
+(b)2 - 'b' do kwadratu
+
